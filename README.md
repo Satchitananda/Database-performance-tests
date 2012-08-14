@@ -11,13 +11,11 @@ Also you can test Tornado for long polling and short polling operations.
 Hardware configuration
 ----------------------
 Intel Core i5 2200x4  
-
 4Gb DDRIII RAM (1333Mhz)
 
 Software configuration
 ----------------------
 MySQL: Percona XtraDB Cluster 5.5  
-
 MongoDB: version 2.0.7 
 
 Pure MongoDB writing
